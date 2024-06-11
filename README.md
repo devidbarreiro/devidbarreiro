@@ -23,5 +23,5 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devidbarreiro&theme=dark&exclude_days=Sun%2CSat&excludeDaysLabel=00000000" alt="GitHub Streak" />
 </picture>
