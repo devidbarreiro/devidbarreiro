@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=dark"
