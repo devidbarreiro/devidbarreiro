@@ -29,9 +29,9 @@
 ---
 
 ### 📫 How to reach me:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/devidbarreiro](https://linkedin.com/in/devidbarreiro)
-- **Twitter:** [twitter.com/devidbarreiro](https://twitter.com/devidbarreiro)
+- **Email:** [d.barreiro02@gmail.com](mailto:d.barreiro02@gmail.com)
+- **LinkedIn:** [linkedin.com/in/dbarreiro02](https://linkedin.com/in/dbarreiro02)
+- **Instagram:** [instagram.com/davidbarreirooo](https://instagram.com/davidbarreirooo)
 
 ---
 
