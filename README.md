@@ -33,6 +33,12 @@
 - **LinkedIn:** [linkedin.com/in/dbarreiro02](https://linkedin.com/in/dbarreiro02)
 - **Instagram:** [instagram.com/davidbarreirooo](https://instagram.com/davidbarreirooo)
 
+<p align="left">
+
+<a href="https://linkedin.com/in/dbarreiro02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/davidbarreirooo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
+
 ---
 
 ### 🔧 My Projects:
