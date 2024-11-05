@@ -25,9 +25,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devidbarreiro&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
 
 ---
 
