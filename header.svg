@@ -1,0 +1,134 @@
+<svg width="100%" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Definiciones de Degradados y Filtros -->
+  <defs>
+    <!-- Degradado de Fondo Animado -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3c72">
+        <animate attributeName="stop-color" values="#1e3c72; #2a5298; #1e3c72" dur="15s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#2a5298">
+        <animate attributeName="stop-color" values="#2a5298; #1e3c72; #2a5298" dur="15s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Filtro de Resplandor para el Texto -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Definición de Partículas -->
+    <g id="particle">
+      <circle r="2" fill="rgba(255, 255, 255, 0.8)">
+        <animate attributeName="opacity" values="1;0" dur="4s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" values="0 0; 100 100" dur="10s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </defs>
+
+  <!-- Fondo con Degradado Animado -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)" />
+
+  <!-- Efecto de Partículas Dinámicas -->
+  <g>
+    <!-- Generador de Partículas -->
+    <use xlink:href="#particle" x="10" y="20">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 500 500" dur="20s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#particle" x="200" y="100">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -500 500" dur="25s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#particle" x="400" y="50">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 500 -500" dur="30s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#particle" x="600" y="150">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -500 -500" dur="35s" repeatCount="indefinite" />
+    </use>
+    <!-- Puedes agregar más partículas duplicando las líneas anteriores -->
+  </g>
+
+  <!-- Formas Geométricas Animadas -->
+  <g>
+    <!-- Líneas Horizontales Animadas -->
+    <line x1="0" y1="300" x2="800" y2="300" stroke="#ffffff" stroke-width="2">
+      <animate attributeName="x2" values="800;750;800" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite" />
+    </line>
+    <line x1="0" y1="350" x2="800" y2="350" stroke="#ffffff" stroke-width="2">
+      <animate attributeName="x2" values="800;750;800" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="7s" repeatCount="indefinite" />
+    </line>
+
+    <!-- Círculos Animados -->
+    <circle cx="700" cy="100" r="30" fill="rgba(255, 255, 255, 0.3)">
+      <animate attributeName="r" values="30;40;30" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.3;0.6;0.3" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="100" cy="300" r="20" fill="rgba(255, 255, 255, 0.5)">
+      <animate attributeName="r" values="20;35;20" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0.8;0.5" dur="8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Texto Central con Efecto de Resplandor -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="#ffffff" filter="url(#glow)">
+    ¡Bienvenido a mi Perfil!
+    <animate attributeName="fill" values="#ffffff;#ffdd57;#ffffff" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="filter" values="url(#glow); url(#glow) brightness(1.2); url(#glow)" dur="10s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Icono de GitHub Animado -->
+  <g transform="translate(50%, 70%) scale(2)" opacity="0.9">
+    <path d="M16 8c-3.2 0-5.8 2.6-5.8 5.8 
+             0 2.6 1.7 4.8 4.1 5.5.3.1.4-.1.4-.2v-1.1c-1.7.4-2.1-.7-2.1-.7 
+             -.3-.8-.7-1.1-.7-1.1-.6-.4 0-.4 0-.4 
+             .7 0 1 .7 1 .7 
+             .6 1 1.6.7 2 .5 
+             .1-.4.3-.7.5-.8-1.4-.2-2.9-.7-2.9-3.1 
+             0-.7.3-1.3.7-1.8 
+             -.1-.2-.3-1 .1-2.1 
+             0 0 .6-.2 2 .7 
+             .6-.2 1.3-.3 2-.3s1.4.1 2 .3c1.4-.9 2-.7 2-.7 
+             .4 1.1.2 1.9.1 2.1 
+             .4.5.7 1.1.7 1.8 
+             0 2.4-1.5 2.9-2.9 3.1 
+             .3.3.6.8.6 1.7v2.5c0 .1.1.3.4.2 
+             2.4-.7 4.1-2.9 4.1-5.5 
+             0-3.2-2.6-5.8-5.8-5.8z" 
+          fill="#ffffff">
+      <!-- Rotación Continua -->
+      <animateTransform 
+        attributeName="transform" 
+        type="rotate" 
+        from="0 16 16" 
+        to="360 16 16" 
+        dur="20s" 
+        repeatCount="indefinite" 
+      />
+      <!-- Pulsación de Opacidad -->
+      <animate 
+        attributeName="opacity" 
+        values="0.9;1;0.9" 
+        dur="10s" 
+        repeatCount="indefinite" 
+      />
+    </path>
+  </g>
+
+  <!-- Efecto de Luz Ambiental -->
+  <g>
+    <defs>
+      <radialGradient id="ambientLight" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="rgba(255, 255, 255, 0.2)" />
+        <stop offset="100%" stop-color="rgba(255, 255, 255, 0)" />
+      </radialGradient>
+    </defs>
+    <circle cx="400" cy="200" r="300" fill="url(#ambientLight)">
+      <animate attributeName="cx" values="400;420;400" dur="30s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="200;180;200" dur="30s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
