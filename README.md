@@ -15,8 +15,9 @@
 ---
 
 ### 📈 GitHub Stats:
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=radical&hide_border=true&background=00000000)
 <div align="center">
+  
   <a href="https://github.com/devidbarreiro">
     <img src="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
@@ -40,11 +41,7 @@
 
 ---
 
-### 📈 GitHub Streak:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=radical&hide_border=true&background=00000000)
-
----
 
 ### 📫 How to reach me:
 - **Email:** [d.barreiro02@gmail.com](mailto:d.barreiro02@gmail.com)
