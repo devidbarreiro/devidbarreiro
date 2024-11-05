@@ -1,4 +1,4 @@
-([https://raw.githubusercontent.com/devidbarreiro/devidbarreiro/master/assets/header.png](https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg))
+# ![Header](https://raw.githubusercontent.com/devidbarreiro/devidbarreiro/master/assets/header.png)
 
 # Hello! 👋 I'm David
 
@@ -7,10 +7,10 @@
 ---
 
 ### 🛠️ Technologies and Tools:
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** Django, React, Node.js
-- **Tools:** Git, Docker, Kubernetes
-- **Others:** Machine Learning, DevOps, Agile
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+- **Frameworks:** ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- **Tools:** ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+- **Others:** ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow) ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops) ![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)
 
 ---
 
@@ -33,13 +33,13 @@
 
 ### 📊 Activity Graph:
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=devidbarreiro&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devidbarreiro&theme=react-dark&hide_border=true)
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-![trophy](https://github-profile-trophy.vercel.app/?username=devidbarreiro&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=devidbarreiro&theme=radical&no-bg=true&no-frame=true&margin-w=15)
 
 ---
 
@@ -54,7 +54,7 @@
 - **LinkedIn:** [linkedin.com/in/dbarreiro02](https://linkedin.com/in/dbarreiro02)
 - **Instagram:** [instagram.com/davidbarreirooo](https://instagram.com/davidbarreirooo)
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/dbarreiro02" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
