@@ -19,39 +19,39 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=devidbarreiro&theme=dark&hide_border=true&background=00000000"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=dark&hide_border=true&background=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
   </picture>
 </p>
 
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=dark&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=light&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devidbarreiro&layout=compact&theme=dark&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devidbarreiro&layout=compact&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devidbarreiro&layout=compact&theme=light&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devidbarreiro&layout=compact&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidbarreiro&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidbarreiro&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
   </picture>
 </div>
 
@@ -150,6 +150,24 @@ When I'm not coding, I love to explore the outdoors, read science fiction, and e
 
 > "Working with David was a pleasure. His expertise in AI and DevOps is unparalleled."  
 > — *John Smith, Lead Engineer at InnovateX*
+
+---
+
+### 📈 Additional Statistics:
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=dark&hide_border=true&background=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
+  </picture>
+</p>
 
 ---
 
