@@ -14,17 +14,30 @@
 
 ### 📈 GitHub Stats:
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=devidbarreiro&theme=dark&exclude_days=Sun%2CSat&excludeDaysLabel=00000000&dates=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=devidbarreiro&exclude_days=Sun%2CSat&excludeDaysLabel=00000000&dates=00000000"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devidbarreiro&exclude_days=Sun%2CSat&excludeDaysLabel=00000000&dates=00000000" alt="GitHub Streak" />
-</picture>
+<div align="center">
+  <a href="https://github.com/devidbarreiro">
+    <img src="https://github-readme-stats.vercel.app/api?username=devidbarreiro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/devidbarreiro">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidbarreiro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devidbarreiro&theme=radical&no-bg=true&no-frame=true&margin-w=4" alt="Trophies" />
+</div>
+
+---
+
+### 📈 Activity Graph:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devidbarreiro&theme=react-dark&hide_border=true)
+
+---
+
+### 🏆 GitHub Trophies:
+
+![trophy](https://github-profile-trophy.vercel.app/?username=devidbarreiro&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
@@ -34,9 +47,8 @@
 - **Instagram:** [instagram.com/davidbarreirooo](https://instagram.com/davidbarreirooo)
 
 <p align="left">
-
-<a href="https://linkedin.com/in/dbarreiro02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/davidbarreirooo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dbarreiro02" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/davidbarreirooo" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
@@ -44,6 +56,7 @@
 ### 🔧 My Projects:
 - **[Project Name](https://github.com/devidbarreiro/project-name):** Short description of the project. Built with Python and Django.
 - **[Another Project](https://github.com/devidbarreiro/another-project):** Brief description of this project. Utilizes React and Node.js.
+- **[AI Assistant](https://github.com/devidbarreiro/ai-assistant):** An AI-powered assistant for various tasks. Implemented with Python and TensorFlow.
 
 ---
 
@@ -55,3 +68,22 @@ When I'm not coding, I love to explore the outdoors, read science fiction, and e
 ### 📚 Latest Blog Posts:
 - **[Understanding Neural Networks](https://your-blog.com/neural-networks):** A comprehensive guide to neural networks and their applications.
 - **[JavaScript Tips and Tricks](https://your-blog.com/js-tips):** Handy tips for writing clean and efficient JavaScript.
+
+---
+
+### 📊 Additional Statistics:
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devidbarreiro&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🏅 Certifications and Courses:
+- **[Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)**
+- **[React Developer Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)**
+- **[Docker Mastery](https://www.udemy.com/course/docker-mastery/)**
