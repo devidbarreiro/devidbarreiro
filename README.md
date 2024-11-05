@@ -63,14 +63,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devidbarreiro&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ### 📫 How to reach me:
 
 - **Email:** [d.barreiro02@gmail.com](mailto:d.barreiro02@gmail.com)
