@@ -69,6 +69,7 @@
 - **LinkedIn:** [linkedin.com/in/dbarreiro02](https://linkedin.com/in/dbarreiro02)
 - **Instagram:** [instagram.com/davidbarreirooo](https://instagram.com/davidbarreirooo)
 
+---
 
 ### 📜 License:
 
