@@ -1,4 +1,5 @@
-# ![Header](https://raw.githubusercontent.com/devidbarreiro/devidbarreiro/master/assets/header.png)
+![GitHub Header](https://github.com/devidbarreiro/devidbarreiro/blob/main/header.svg)
+
 
 # Hello! 👋 I'm David
 
