@@ -7,29 +7,10 @@
 ---
 
 ### 🛠️ Technologies and Tools:
-
-<div align="center">
-  <!-- Languages -->
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/java.svg" alt="Java" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="40" style="margin: 5px"/>
-
-  <!-- Frameworks -->
-  <img src="https://simpleicons.org/icons/django.svg" alt="Django" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/react.svg" alt="React" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="Node.js" height="40" style="margin: 5px"/>
-
-  <!-- Tools -->
-  <img src="https://simpleicons.org/icons/git.svg" alt="Git" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" height="40" style="margin: 5px"/>
-
-  <!-- Others -->
-  <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/devops.svg" alt="DevOps" height="40" style="margin: 5px"/>
-  <img src="https://simpleicons.org/icons/agile.svg" alt="Agile" height="40" style="margin: 5px"/>
-</div>
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+- **Frameworks:** ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- **Tools:** ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+- **Others:** ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow) ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops) ![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)
 
 ---
 
