@@ -1,6 +1,6 @@
-<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Definición de Degradado Animado -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" width="100%" height="300">
   <defs>
+    <!-- Degradado de Fondo Animado -->
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff7e5f">
         <animate attributeName="stop-color" values="#ff7e5f; #feb47b; #ff7e5f" dur="10s" repeatCount="indefinite" />
@@ -9,56 +9,38 @@
         <animate attributeName="stop-color" values="#feb47b; #ff7e5f; #feb47b" dur="10s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
-    
-    <!-- Definición de Patrones Geométricos -->
-    <pattern id="patternLines" patternUnits="userSpaceOnUse" width="200" height="200">
-      <line x1="0" y1="0" x2="200" y2="200" stroke="rgba(255,255,255,0.1)" stroke-width="2">
-        <animateTransform 
-          attributeName="transform" 
-          type="translate" 
-          from="0 0" 
-          to="200 200" 
-          dur="20s" 
-          repeatCount="indefinite" 
-        />
-      </line>
-      <line x1="200" y1="0" x2="0" y2="200" stroke="rgba(255,255,255,0.1)" stroke-width="2">
-        <animateTransform 
-          attributeName="transform" 
-          type="translate" 
-          from="200 0" 
-          to="0 200" 
-          dur="20s" 
-          repeatCount="indefinite" 
-        />
+
+    <!-- Animación de Líneas Diagonales -->
+    <pattern id="diagonalLines" patternUnits="userSpaceOnUse" width="200" height="200" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="200" stroke="rgba(255,255,255,0.1)" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.1;0.3;0.1" dur="5s" repeatCount="indefinite" />
       </line>
     </pattern>
   </defs>
-  
+
   <!-- Fondo con Degradado Animado -->
   <rect width="100%" height="100%" fill="url(#bgGradient)" />
-  
-  <!-- Superposición de Patrones Geométricos -->
-  <rect width="100%" height="100%" fill="url(#patternLines)" opacity="0.3" />
-  
-  <!-- Formas Geométricas Animadas -->
-  <circle cx="150" cy="150" r="30" fill="rgba(255,255,255,0.2)">
-    <animate attributeName="cx" values="150; 650; 150" dur="30s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="150; 450; 150" dur="30s" repeatCount="indefinite" />
-    <animate attributeName="r" values="30; 50; 30" dur="30s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="30s" repeatCount="indefinite" />
-  </circle>
-  
-  <circle cx="650" cy="150" r="20" fill="rgba(255,255,255,0.1)">
-    <animate attributeName="cx" values="650; 150; 650" dur="25s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="150; 450; 150" dur="25s" repeatCount="indefinite" />
-    <animate attributeName="r" values="20; 40; 20" dur="25s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="25s" repeatCount="indefinite" />
-  </circle>
-  
-  <!-- Texto Central Elegante -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="#ffffff">
-    ¡Bienvenido a mi Perfil!
-    <animate attributeName="fill" values="#ffffff;#ffeaa7;#ffffff" dur="8s" repeatCount="indefinite" />
+
+  <!-- Superposición de Líneas Diagonales -->
+  <rect width="100%" height="100%" fill="url(#diagonalLines)" opacity="0.2" />
+
+  <!-- Texto Animado -->
+  <text x="1200" y="150" class="animated-text" font-family="'Montserrat', sans-serif" font-size="60" font-weight="bold" fill="#ffffff">
+    ¡Hola! Soy David
+    <animate attributeName="x" from="1200" to="-600" dur="15s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="15s" repeatCount="indefinite" />
   </text>
+
+  <!-- Elementos Geométricos Animados -->
+  <!-- Círculo Pulsante -->
+  <circle cx="300" cy="100" r="30" fill="rgba(255, 255, 255, 0.2)">
+    <animate attributeName="r" values="30;50;30" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="10s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Línea Horizontal Animada -->
+  <line x1="0" y1="250" x2="1200" y2="250" stroke="#ffffff" stroke-width="2">
+    <animate attributeName="x2" from="0" to="1200" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="x2" from="1200" to="0" dur="10s" repeatCount="indefinite" />
+  </line>
 </svg>
