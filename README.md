@@ -1,7 +1,6 @@
 ![GitHub Header](https://github.com/devidbarreiro/devidbarreiro/blob/main/header.svg)
 
 
-# Hello! 👋 I'm David
 
 ### Software Developer | AI Specialist | Open Source Enthusiast
 
