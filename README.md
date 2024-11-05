@@ -16,19 +16,7 @@
 
 ### 📈 GitHub Stats:
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=dark&hide_border=true&background=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devidbarreiro&theme=light&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
-  </picture>
-</p>
+
 
 <div align="center">
   <picture>
